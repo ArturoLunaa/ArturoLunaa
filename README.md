@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **arturolunaago@hotmail.com**
 
